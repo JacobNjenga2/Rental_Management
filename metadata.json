@@ -1,0 +1,6 @@
+{
+  "name": "Rental Management Platform",
+  "description": "A comprehensive SaaS platform for landlords, property managers, and tenants to manage portfolios, screen applicants, execute leases, pay rent, and track maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
